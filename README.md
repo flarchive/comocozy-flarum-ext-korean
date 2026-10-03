@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of comocozy/flarum-ext-korean.** Not for installation: use [Packagist](https://packagist.org/packages/comocozy/flarum-ext-korean) or the [upstream repository](https://github.com/Comocozy/flarum-ext-korean).
 
-**0** versions archived · Latest: [`v1.0`](https://github.com/flarchive/comocozy-flarum-ext-korean/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**1** versions archived · Latest: [`v1.0`](https://github.com/flarchive/comocozy-flarum-ext-korean/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2017-05-29 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/comocozy-flarum-ext-korean/tree/archive/v1.0) |
 
 Catalog entry: [packages/comocozy-flarum-ext-korean.json](https://github.com/flarchive/archive-index/blob/main/packages/comocozy-flarum-ext-korean.json)
 
